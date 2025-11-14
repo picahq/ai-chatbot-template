@@ -8,7 +8,7 @@ A production-ready AI chatbot built with [Vercel AI SDK](https://ai-sdk.dev) and
 
 - 🤖 **Multiple AI Models** - Support for GPT 5.1, Claude Sonnet 4.5, and more
 - 🔧 **Tool Calling** - Visual UI components for tool invocations
-- 🔌 **Pica ToolKit Ready** - Extend with 150+ enterprise integrations (Gmail, Slack, Salesforce, etc.)
+- 🔌 **Pica ToolKit Ready** - Easily extend with 200+ enterprise integrations (Gmail, Slack, Salesforce, etc.)
 - 🌐 **Web Search** - Built-in OpenAI web search with UI toggle
 - 📎 **File Attachments** - Drag-and-drop file support
 - 💭 **Reasoning Display** - Show AI reasoning steps
